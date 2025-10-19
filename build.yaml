@@ -20,4 +20,4 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: bat43
+    shield: RTK17
