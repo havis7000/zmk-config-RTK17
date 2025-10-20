@@ -1,0 +1,13 @@
+file_format: 1
+id: RTK17
+name: RTK17
+version: 0.3
+type: board
+arch: arm
+url: https://github.com/havis7000/zmk-config-RTK17
+manufacturer: HAVIS
+features:
+  - keys
+outputs:
+  - usb
+  - ble
