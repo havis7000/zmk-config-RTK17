@@ -2,12 +2,8 @@ file_format: "1"
 id: RTK17
 name: RTK17
 type: shield
-arch: arm
 url: https://github.com/havis7000/zmk-config-RTK17
 manufacturer: HAVIS
 requires: [nrfmicro_13_52840]
 features:
   - keys
-outputs:
-  - usb
-  - ble
